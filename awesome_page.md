@@ -8,4 +8,4 @@ _italic_
 
 `code block`
 
-![image](desktop/GPS Screenshot.png "GPS Screenshot")
+![image](desktop/ScreenshotGPS.png "GPS Screenshot")
