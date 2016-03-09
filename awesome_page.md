@@ -4,7 +4,9 @@ _italic_
 
 **BOLD**
 
-[click here](https://www.google.com)
+
+[click here](https://www.nytimes.com)
+
 
 `code block`
 
